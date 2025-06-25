@@ -1,2 +1,2 @@
-# Shell
-Simple shell program with basic capabilities
+# Unix Shell
+Simple shell program.
